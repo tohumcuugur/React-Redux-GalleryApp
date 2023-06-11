@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "name": "Uğur Tohumcu",
+      "id": 1
+    },
+    {
+      "name": "William Kerluke",
+      "id": 2
+    },
+    {
+      "name": "Jonathan Schowalter",
+      "id": 4
+    },
+    {
+      "name": "Laurence Medhurst",
+      "id": 5
+    },
+    {
+      "name": "Chris Glover",
+      "id": 6
+    },
+    {
+      "name": "Deanna Tillman",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Ankara",
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "title": "Gorgeous Bronze Hat",
+      "id": 27
+    },
+    {
+      "userId": 4,
+      "title": "Tasty Bronze Shoes",
+      "id": 29
+    },
+    {
+      "userId": 5,
+      "title": "Small Fresh Pizza",
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Plastic Shoes",
+      "id": 31
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8452168772222976",
+      "id": 2
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2140006158172160",
+      "id": 4
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6779729319297024",
+      "id": 11
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6457116913041408",
+      "id": 15
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5969179012235264",
+      "id": 16
+    },
+    {
+      "albumId": 31,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1997730763243520",
+      "id": 17
+    },
+    {
+      "albumId": 31,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1077246376804352",
+      "id": 18
+    },
+    {
+      "albumId": 31,
+      "url": "https://loremflickr.com/150/150/abstract?lock=873210635616256",
+      "id": 19
+    }
+  ]
+}

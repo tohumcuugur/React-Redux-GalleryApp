@@ -1,0 +1,43 @@
+.topArrangement {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+.panelDiv {
+    background-color: lightblue;
+    border-radius: 30px;
+}
+
+.deleteBtn {
+    margin-right: 30px;
+    padding: 7px 9px 5px 9px;
+    border: none;
+    font-size: 20px;
+    border-radius: 50%;
+    background-color: "#fff";
+    color: "black";
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.photoDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.photoDiv div {
+    margin: 10px
+}
+
+.photoTrashCanAlignment {
+    position: absolute;
+    top: 48%;
+    left: 42%;
+    color: white;
+    transform: translate(-50%, -50%);
+}
